@@ -1,1 +1,1 @@
-# course-management-spring_boot
+# Course-Manage-Spring-boot
